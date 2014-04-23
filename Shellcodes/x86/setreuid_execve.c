@@ -1,5 +1,5 @@
 /*
-    Title:  setreuid & execve shellcode (28 bytes)
+	Title:  setreuid & execve shellcode (28 bytes)
 	Author: blindarcher <blindarcher[no SPAM]outlook dot com>
 	Arch:   Linux x86
 */
